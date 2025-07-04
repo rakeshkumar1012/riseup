@@ -70,3 +70,6 @@ src/
 ![alt text](image-1.png)
 
 ---
+🧠 Developed During
+Call2Code 2025 Hackathon
+A solo submission by Akuthota Rakesh Kumar
